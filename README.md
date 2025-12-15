@@ -15,7 +15,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/antomanc/simple-calorie-tracker.git
+    git clone https://github.com/waldy-ctt/sct.git
     cd simple-calorie-tracker
     ```
 2. Install dependencies with bun

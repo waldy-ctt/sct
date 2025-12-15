@@ -1,8 +1,8 @@
 {
 	"name": "simple-calorie-tracker",
 	"author": {
-		"email": "an.manc25@gmail.com",
-		"name": "Antonio Mancini"
+		"email": "clocktoktok@gmail.com",
+		"name": "Waldy"
 	},
 	"main": "expo-router/entry",
 	"version": "1.2.0",
